@@ -10,12 +10,12 @@ A ideia é construir um MVP aplicando conceitos de **RPA**, **QA**, **validaçã
 
 ## Funcionalidades planejadas
 
-- [ ] Ler arquivos de uma pasta de entrada
-- [ ] Organizar documentos por tipo
-- [ ] Validar CNPJ
-- [ ] Validar datas e valores
-- [ ] Gerar relatório em Excel
-- [ ] Criar testes automatizados
+- [x] Ler arquivos de uma pasta de entrada
+- [x] Organizar documentos por tipo
+- [x] Validar CNPJ
+- [x] Validar datas e valores
+- [x] Gerar relatório em Excel
+- [x] Criar testes automatizados
 
 ## Estrutura do projeto
 
