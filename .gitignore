@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.pytest_cache/
+.ipynb_checkpoints/
+# Ignore generated test/output files
+data/saida/
+# Ignore editor and OS files
+*.swp
+*.swo
+.DS_Store
+*.log
